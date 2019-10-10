@@ -1,0 +1,56 @@
+h4 {
+    color: White;
+}
+
+
+.title{
+    color: rgb(47, 179, 179);
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+body{
+    background-color: white
+}
+
+#summaryoflatitude{
+    margin-top: 60px;
+    text-align: center;
+}
+
+p{
+    font-family: "Times New Roman", Times, serif;
+}
+
+#visualizations{
+    margin-top: 80px;
+    text-align: center;
+}
+
+#latitudetotemperature{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#latitudetohumidity{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#latitudetocloudiness{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#latitudetowind{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#comparisonsof{
+    margin-top: 20px;
+}
+
+#data{
+    margin-top: 20px;
+}
