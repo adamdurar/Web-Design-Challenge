@@ -27,27 +27,7 @@ p{
     text-align: center;
 }
 
-#latitudetotemperature{
-    margin-top: 60px;
-    text-align: center;
-}
-
-#latitudetohumidity{
-    margin-top: 60px;
-    text-align: center;
-}
-
-#latitudetocloudiness{
-    margin-top: 60px;
-    text-align: center;
-}
-
-#latitudetowind{
-    margin-top: 60px;
-    text-align: center;
-}
-
-#comparisonsof{
+#comparison{
     margin-top: 20px;
 }
 
