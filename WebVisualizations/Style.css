@@ -2,11 +2,17 @@ h4 {
     color: White;
 }
 
-
 .title{
     color: rgb(47, 179, 179);
     font-family: Georgia, serif;
     font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
 
 body{
@@ -27,6 +33,27 @@ p{
     text-align: center;
 }
 
+
+#maxtemp{
+    margin-top: 80px;
+    text-align: center;
+}
+
+#humidity{
+    margin-top: 80px;
+    text-align: center;
+}
+
+#cloudiness{
+    margin-top: 80px;
+    text-align: center;
+}
+
+#windspeed{
+    margin-top: 80px;
+    text-align: center;
+}
+
 #comparison{
     margin-top: 20px;
 }
@@ -34,3 +61,18 @@ p{
 #data{
     margin-top: 20px;
 }
+
+@media (max-width: 480px) {
+
+  .navbar li {
+    padding: 10px;
+  }
+
+  .post {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+
+  #nav-select {
+    visibility: visible;
+  }
